@@ -57,12 +57,12 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 * Using JavaScript Created string lengths and retrieving the number of characters. 
  - Create a prompt where the user can enter a long string such as a paragraph of text and you will tell them how many characters they have written
  -  Create a prompt that, when I paste a text, cuts it to 140 characters
-* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/String-lengths-retrieving)
+* [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/String-lengths-retrieving)
 
 ### Project 9(Changing-casing)
 * Using JavaScript Changing casing (toUpperCase and toLowerCase).
 - Create a prompt that asks for a name, then show the name with the first character in upper case and the rest in lower case 
-* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Changing-casing)
+* [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/Changing-casing)
 
  
   
@@ -71,29 +71,29 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - create a function that takes weight and height as inputs and gives the calculated BMI value as an output. The output should be rounded to the nearest whole number.
 - The first parameter should be the weight(Kg) and the second should be the height(M).
 - NOTE: You do not need to write any alerts or prompts or console logs. Your code should only contain the function, the result has to be returned by the function. You do not need to call the function.
-* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/BMI-Calculator)
+* [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/BMI-Calculator)
 
 ### Project 11(Love-Calculator)
 * Using JavaScript created love calculator
 - Create a love calculator for the user to introduce 2 names and get a random "compatibility percentage"
-* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Love-Calculator)
+* [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/Love-Calculator)
 
 ### Project 12(Leap-Year)
 * Using JavaScript created Leap year calculator
 - Write a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February. 
-* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Leap-Year)
+* [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/Leap-Year)
 
 ### Project 13(buying-lunch)
 * Using JavaScript function created Who's buying lunch
 - Write a function which will select a random name from a list of names. 
 - The person selected will have to pay for everybody's food bill.
 - Important: The output should e returned from the function and you do not need alert, prompt or console.log.
-* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/buying-lunch)
+* [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/buying-lunch)
 
 ### Project 14(FizzBuzz)
 * Using JavaScript function created FizzBuzz as array
 - Write a program that print number of 1 to 100 as a sequence and for multiples of 3 print "Fizz", for multiples of 5 print "Buzz" and for multiples of 3,5 print "FizzBuzz"
-* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/FizzBuzz)
+* [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/FizzBuzz)
 
 ### Project 15(Fibonacci)
 * Using JavaScript function created fibonacci as array
@@ -102,7 +102,7 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - IMPORTANT: The solution checker is expecting an array as the correct output.
 - You do NOT need any alerts or prompts, the result should be returned from the function as an output.
 - The first two numbers in the sequence must be 0 and 1.
-* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Fibonacci)
+* [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/Fibonacci)
 
 
   
