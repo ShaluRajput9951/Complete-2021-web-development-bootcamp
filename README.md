@@ -105,6 +105,13 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 * [Repository](https://github.com/ShaluRajput9951/Complete-2021-web-development-bootcamp/tree/main/Fibonacci)
 
 
+### Project 16(Brainly Quiz)
+* Using JavaScript function for this quiz
+* have a look on the repository.
+- * [Repository](https://github.com/ShaluRajput9951/Brainstorming_Quizzz)
+
+
+
   
   
   
